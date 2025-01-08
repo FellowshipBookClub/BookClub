@@ -21,13 +21,13 @@
 title: Book Club
 email: contact@fellowshipbookclub.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Book Club, where the Books aren't novels and the Club is just you on a website. 
+  The only place to keep up to date with your favourite Basketball/Hip Hop podcast based in New Zealand hosted by 2 dudes with matching names.  
+  Keep up to date with the latest meetings, do your homework by following the links to NBA.com and watching next week's series and join us as we run through the History of Hip Hop by listening along with the Book Club playlists
 baseurl: "/BookClub" # the subpath of your site, e.g. /blog
 url: "https://fellowshipbookclub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Book Club
-github_username:  Fellowship Book Club
+github_username:  FellowshipBookClub
 
 # Build settings
 theme: minima
