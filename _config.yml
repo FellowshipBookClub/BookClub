@@ -28,11 +28,13 @@ baseurl: "/BookClub" # the subpath of your site, e.g. /blog
 url: "https://fellowshipbookclub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Book Club
 github_username:  FellowshipBookClub
-
+github: [metadata]
 # Build settings
-theme: minima
+# removed minima theme, is now regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
